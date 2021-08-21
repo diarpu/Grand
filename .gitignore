@@ -1,0 +1,15 @@
+node_modules/
+package.json
+package-lock.json
+postcss.config.js
+
+.htaccess
+robots.txt
+sitemap.xml
+
+root.css
+defaul.css
+style.css
+style2.css
+CNAME
+

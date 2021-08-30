@@ -223,7 +223,7 @@ $mailContent = '
                                                                                 </p>
                                                                                 <p style="font-size: 14px; line-height: 140%;">
                                                                                     <strong><span
-                                                                                            style="font-size: 16px; line-height: 22.4px; margin-left: 10px">GRUVA</span></strong>
+                                                                                            style="font-size: 16px; line-height: 22.4px; margin-left: 10px">GRAND</span></strong>
                                                                                 </p>
                                                                                 <p style="font-size: 14px; line-height: 140%;">&nbsp;
                                                                                 </p>
